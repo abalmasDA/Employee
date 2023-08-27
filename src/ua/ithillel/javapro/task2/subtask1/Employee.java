@@ -1,3 +1,4 @@
+package ua.ithillel.javapro.task2.subtask1;
 
 public class Employee {
     private String fullName;
